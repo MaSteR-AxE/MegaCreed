@@ -14,4 +14,4 @@ cd $HOME && git clone https://www.github.com/MaSteR-AxE/MegaCreed.git && cd Mega
 ```
 
 * * *
-** By AxE
+## By AxE

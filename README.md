@@ -12,3 +12,5 @@ To install everything in one command, use:
 ```sh
 cd $HOME && git clone https://www.github.com/MaSteR-AxE/MegaCreed.git && cd MegaCreed && sudo chmod +777 install.sh && sudo chmod 777 launch.sh && sudo ./install.sh
 ```
+
+* * *

@@ -5,3 +5,5 @@
 * A Installation Commands for Linux - Ubuntu
 ``` [[ No Way to use it ! ]] ```
 - **Creed**: https://github.com/muteall
+
+# How to install :
